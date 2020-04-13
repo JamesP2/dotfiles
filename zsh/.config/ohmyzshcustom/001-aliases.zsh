@@ -1,3 +1,3 @@
 # My Aliases
-alias lla="ls -la"
-alias lah="la -lah"
+alias ll="la -lh"
+alias lla="ls -lah"
