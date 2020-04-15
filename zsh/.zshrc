@@ -63,6 +63,9 @@ ZSH_THEME="gentoo"
 # Would you like to use another custom folder than $ZSH/custom?
 ZSH_CUSTOM=$HOME/.config/ohmyzshcustom
 
+# Symlinks break oh-my-zsh audit sometimes
+ZSH_DISABLE_COMPFIX=true
+
 # Which plugins would you like to load?
 # Standard plugins can be found in ~/.oh-my-zsh/plugins/*
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
