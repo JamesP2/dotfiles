@@ -61,7 +61,7 @@ DISABLE_AUTO_UPDATE="true"
 # HIST_STAMPS="mm/dd/yyyy"
 
 # Would you like to use another custom folder than $ZSH/custom?
-#ZSH_CUSTOM=$HOME/.oh-my-zsh-custom
+ZSH_CUSTOM=$HOME/.oh-my-zsh-custom
 
 # Symlinks break oh-my-zsh audit sometimes
 ZSH_DISABLE_COMPFIX=true
@@ -71,7 +71,7 @@ ZSH_DISABLE_COMPFIX=true
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git tmux command-not-found)
+plugins=(git tmux command-not-found z)
 
 source $ZSH/oh-my-zsh.sh
 
