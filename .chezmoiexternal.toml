@@ -15,3 +15,9 @@
     url = "https://github.com/gpakosz/.tmux/archive/refs/heads/master.zip"
     refreshPeriod = "168h"
     path = ".tmux-master/.tmux.conf"
+[".zsh/pure"]
+    type = "archive"
+    url = "https://github.com/sindresorhus/pure/archive/refs/heads/main.zip"
+    refreshPeriod = "168h"
+    exact = true
+    stripComponents = 1
