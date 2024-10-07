@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/james/.zsh'
+let g:netrw_dirhist_5='/home/james/.tmux'
+let g:netrw_dirhist_4='/home/james/projects/jamesphillips-site/src/components'
+let g:netrw_dirhist_3='/home/james/projects/jamesphillips-site/src'
+let g:netrw_dirhist_2='/home/james/projects/jamesphillips-site/src/pages'
+let g:netrw_dirhist_1='/home/james/projects/jamesphillips-site/src'
