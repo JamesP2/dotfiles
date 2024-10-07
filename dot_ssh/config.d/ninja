@@ -1,0 +1,7 @@
+Host 329-vmh-01
+  HostName 329-vmh-01.n-client.ninja.org.uk
+  User root
+
+Host 329-esxi-01
+  HostName 329-esxi-01.n-client.ninja.org.uk
+  User root

@@ -1,0 +1,11 @@
+Host mutts-forum
+  HostName forum.mutts.org.uk
+  User root
+
+Host mutts-gw
+  HostName gw.mutts.org.uk
+  User muttsadmin
+
+Host compsoc
+  HostName vs01.compsoc.hosted.ninja.org.uk
+  User toor

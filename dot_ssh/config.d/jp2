@@ -1,0 +1,35 @@
+Host vps01
+  HostName vps01.jp2.me.uk
+  User james
+
+Host gc1
+  HostName gc1.jp2.me.uk
+  User james
+
+Host oc1
+  HostName oc1.jp2.me.uk
+  User james
+
+Host oc2
+  HostName oc2.jp2.me.uk
+  User james
+
+Host ovh1
+  HostName ovh1.jp2.me.uk
+  User james
+
+Host ovh2
+  HostName ovh2.jp2.me.uk
+  User james
+
+Host mcr1
+  HostName mcr1.jp2.me.uk
+  User james
+
+Host 55-rtr01
+  HostName rtr01.scotby.jp2.me.uk
+  User admin
+
+Host 55-pi01
+  HostName pi01.scotby.jp2.me.uk
+  User pi
