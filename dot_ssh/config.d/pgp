@@ -1,7 +1,0 @@
-Host pgp-miriam
-  HostName miriam.paradisegreen.co.uk
-  User jphillips
-
-Host pgp-berne
-  HostName 192.168.184.15
-  User toor

@@ -1,0 +1,23 @@
+Host pg-miriam
+  HostName 192.168.186.24
+  User jphillips
+
+Host pg-prague
+  HostName 81.187.179.25
+  User toor
+
+Host pg-athens
+  HostName 192.168.184.20
+  User toor
+        KexAlgorithms +diffie-hellman-group1-sha1
+  HostKeyAlgorithms +ssh-rsa
+
+Host pg-berne
+  HostName 192.168.184.15
+  User toor
+        KexAlgorithms +diffie-hellman-group1-sha1
+  HostKeyAlgorithms +ssh-rsa
+
+Host pg-mx1
+  HostName mx1.paradise-green.co.uk
+  User toor
