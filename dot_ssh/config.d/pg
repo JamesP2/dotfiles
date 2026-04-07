@@ -6,6 +6,10 @@ Host pg-prague
   HostName 81.187.179.25
   User toor
 
+Host pg-ottowa
+  HostName 81.187.179.21
+  User toor
+
 Host pg-athens
   HostName 192.168.184.20
   User toor
