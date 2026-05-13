@@ -1,3 +1,7 @@
+Host hz1
+  HostName hz1.jp2.me.uk
+  User root
+
 Host ovh2
   HostName ovh2.jp2.me.uk
   User james
